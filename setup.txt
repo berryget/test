@@ -1,0 +1,16 @@
+Install Python and add it to PATH
+Open command prompt inside this folder and type "pip install -r requirements.txt"
+Add your tokens inside the tokens.txt file
+Run the main.py file
+
+Done! The tokens should be online now. :)
+
+---
+
+If you are facing any issues/errors or have some questions/need support, feel free to message me: 
+
+Discord: Phantom#7151 (https://discord.com/users/731754141331882017)
+Discord Server: https://dsc.gg/phantom
+Telegram: https://t.me/SealedSaucer
+YouTube: https://www.youtube.com/c/SealedSaucer
+Email: sealedsaucer@gmail.com
